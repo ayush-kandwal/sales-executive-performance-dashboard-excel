@@ -34,3 +34,8 @@ Sales managers need a quick and clear way to:
 
 ## Use Case
 Useful for sales managers and business teams to monitor individual performance and take corrective actions based on data.
+
+##Dashboard preview
+[Sales Executive Performance Dashboard]
+<img width="1755" height="689" alt="Dashboard-preview" src="https://github.com/user-attachments/assets/95480c27-79ac-46c2-b242-242d69eda144" />
+
