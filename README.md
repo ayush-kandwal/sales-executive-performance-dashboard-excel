@@ -1,4 +1,3 @@
-# A PostgreSQL-based analysis project focusing on customer behavior, revenue insights, and sales trends.
 # sales-executive-performance-dashboard-excel
 
 ## Overview
